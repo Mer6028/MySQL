@@ -1,4 +1,4 @@
-AIM: showing my collaborations skills in this group project we conducted SQL queries to demostrate how data can be filtered, using Aliases and operators to collect data and produce an EER diagram to show how tables are linked in this database. The areas focused were
+AIM: To query data using MYSQL
 
 • Working as a team.
 • Improving problem solving skills.
